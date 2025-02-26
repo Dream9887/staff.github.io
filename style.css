@@ -1,0 +1,39 @@
+body{
+ background-color: purple;
+ background: linear-gradient(to right, lightgreen, lightblue);
+ font-family: sans-serif;
+}
+#nawawi {
+    color: pink;
+    border: solid;
+    background-color: whitesmoke;
+    width: 10%
+}
+.staff-offer {
+border: solid lightcoral;
+width: 20%;
+text-shadow: 2px 2px white;
+}
+#annoucement-leaks {
+    border: solid black;
+    background-color: white;
+    width: 36%;
+}
+#dev-annoucement {
+    color: darkcyan;
+}
+.free-roles {
+    border: solid;
+    width: 25%;
+}
+#syakir {
+    color: red;
+    width: 10%;
+    border: solid;
+}
+#adam {
+    Color: red;
+    background-color: white;
+    width: 10%;
+    border: solid;
+}
